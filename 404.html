@@ -3929,6 +3929,12 @@
       }
       return of(input, init);
     };
+    // Drawer "← Back" links are plain anchors with no bound handler; without this
+    // they trigger a real navigation and reboot the whole app.
+    document.addEventListener('click', function(e){
+      var a = e.target && e.target.closest ? e.target.closest('.back-link') : null;
+      if (a && typeof window.closeDrawer === 'function') { e.preventDefault(); window.closeDrawer(); }
+    }, true);
   })();
   </script>
 </head>
