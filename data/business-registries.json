@@ -1,0 +1,2314 @@
+{
+"generated": "2026-07",
+"countries": {
+"US": {
+"name": "United States",
+"code": "US",
+"national": null,
+"national_status": "in_progress",
+"regions": [
+{
+"code": "AL",
+"name": "Alabama",
+"source": "AL Secretary of State",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "AK",
+"name": "Alaska",
+"source": "AK Dept. of Commerce — Div. of Corporations",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "AZ",
+"name": "Arizona",
+"source": "Arizona Corporation Commission",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "AR",
+"name": "Arkansas",
+"source": "AR Secretary of State",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "CA",
+"name": "California",
+"source": "CA Secretary of State (bizfile)",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "CO",
+"name": "Colorado",
+"source": "CO Secretary of State",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "CT",
+"name": "Connecticut",
+"source": "CT Secretary of State (business.ct.gov)",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "DE",
+"name": "Delaware",
+"source": "DE Division of Corporations",
+"biz": true,
+"officers": false,
+"shareholders": false,
+"status": "proposed"
+},
+{
+"code": "DC",
+"name": "District of Columbia",
+"source": "DC Dept. of Licensing & Consumer Protection (DLCP)",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "FL",
+"name": "Florida",
+"source": "FL Division of Corporations (Sunbiz)",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "GA",
+"name": "Georgia",
+"source": "GA Secretary of State — Corporations Division",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "HI",
+"name": "Hawaii",
+"source": "HI DCCA — Business Registration Division",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "ID",
+"name": "Idaho",
+"source": "ID Secretary of State",
+"biz": true,
+"officers": false,
+"shareholders": false,
+"status": "proposed"
+},
+{
+"code": "IL",
+"name": "Illinois",
+"source": "IL Secretary of State",
+"biz": true,
+"officers": false,
+"shareholders": false,
+"status": "proposed"
+},
+{
+"code": "IN",
+"name": "Indiana",
+"source": "IN Secretary of State (INBiz)",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "IA",
+"name": "Iowa",
+"source": "IA Secretary of State",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "KS",
+"name": "Kansas",
+"source": "KS Secretary of State",
+"biz": true,
+"officers": false,
+"shareholders": false,
+"status": "proposed"
+},
+{
+"code": "KY",
+"name": "Kentucky",
+"source": "KY Secretary of State",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "LA",
+"name": "Louisiana",
+"source": "LA Secretary of State (CORA)",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "ME",
+"name": "Maine",
+"source": "ME Secretary of State (ICRS)",
+"biz": true,
+"officers": false,
+"shareholders": false,
+"status": "proposed"
+},
+{
+"code": "MD",
+"name": "Maryland",
+"source": "MD State Dept. of Assessments & Taxation (SDAT)",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "MI",
+"name": "Michigan",
+"source": "MI LARA — Corporations Division",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "MN",
+"name": "Minnesota",
+"source": "MN Secretary of State",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "MS",
+"name": "Mississippi",
+"source": "MS Secretary of State",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "MO",
+"name": "Missouri",
+"source": "MO Secretary of State",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "MT",
+"name": "Montana",
+"source": "MT Secretary of State",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "NE",
+"name": "Nebraska",
+"source": "NE Secretary of State",
+"biz": true,
+"officers": false,
+"shareholders": false,
+"status": "proposed"
+},
+{
+"code": "NV",
+"name": "Nevada",
+"source": "NV Secretary of State (SilverFlume)",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "NH",
+"name": "New Hampshire",
+"source": "NH Secretary of State (QuickStart)",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "NJ",
+"name": "New Jersey",
+"source": "NJ Division of Revenue & Enterprise Services",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "NM",
+"name": "New Mexico",
+"source": "NM Secretary of State",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "NY",
+"name": "New York",
+"source": "NY Dept. of State — Division of Corporations",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "NC",
+"name": "North Carolina",
+"source": "NC Secretary of State",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "ND",
+"name": "North Dakota",
+"source": "ND Secretary of State (FirstStop)",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "OK",
+"name": "Oklahoma",
+"source": "OK Secretary of State",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "PA",
+"name": "Pennsylvania",
+"source": "PA Dept. of State — Bureau of Corporations",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "PR",
+"name": "Puerto Rico",
+"source": "PR Departamento de Estado — Registro de Corporaciones",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "RI",
+"name": "Rhode Island",
+"source": "RI Secretary of State",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "SC",
+"name": "South Carolina",
+"source": "SC Secretary of State",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "SD",
+"name": "South Dakota",
+"source": "SD Secretary of State",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "TN",
+"name": "Tennessee",
+"source": "TN Secretary of State",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "TX",
+"name": "Texas",
+"source": "TX Comptroller / SOSDirect",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "UT",
+"name": "Utah",
+"source": "UT Dept. of Commerce — Div. of Corporations",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "VT",
+"name": "Vermont",
+"source": "VT Secretary of State",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "VA",
+"name": "Virginia",
+"source": "VA State Corporation Commission (SCC)",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "WV",
+"name": "West Virginia",
+"source": "WV Secretary of State",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "WI",
+"name": "Wisconsin",
+"source": "WI Dept. of Financial Institutions",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "WY",
+"name": "Wyoming",
+"source": "WY Secretary of State",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "MA",
+"name": "Massachusetts",
+"source": "MA Secretary of the Commonwealth",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "OR",
+"name": "Oregon",
+"source": "OR Secretary of State",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "WA",
+"name": "Washington",
+"source": "WA Secretary of State",
+"biz": true,
+"officers": false,
+"shareholders": false,
+"status": "proposed"
+},
+{
+"code": "OH",
+"name": "Ohio",
+"source": "OH Secretary of State",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+}
+]
+},
+"CA": {
+"name": "Canada",
+"code": "CA",
+"national": {
+"source": "Corporations Canada (ISED federal registry)",
+"biz": true,
+"officers": false,
+"shareholders": false,
+"status": "proposed"
+},
+"national_status": "proposed",
+"regions": [
+{
+"code": "AB",
+"name": "Alberta",
+"source": "Service Alberta — Corporate Registry",
+"biz": true,
+"officers": false,
+"shareholders": false,
+"status": "proposed"
+},
+{
+"code": "BC",
+"name": "British Columbia",
+"source": "BC Registries / OrgBook BC",
+"biz": true,
+"officers": false,
+"shareholders": false,
+"status": "proposed"
+},
+{
+"code": "MB",
+"name": "Manitoba",
+"source": "Manitoba Companies Office (+ ISED federal)",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "NL",
+"name": "Newfoundland and Labrador",
+"source": "Registry of Companies — Service NL",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "NT",
+"name": "Northwest Territories",
+"source": "NWT Corporate Registry (+ ISED federal)",
+"biz": true,
+"officers": true,
+"shareholders": true,
+"status": "active"
+},
+{
+"code": "NS",
+"name": "Nova Scotia",
+"source": "Registry of Joint Stock Companies (RJSC)",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "NU",
+"name": "Nunavut",
+"source": "Nunavut Corporate Registry",
+"biz": true,
+"officers": true,
+"shareholders": true,
+"status": "active"
+},
+{
+"code": "ON",
+"name": "Ontario",
+"source": "Ontario Business Registry (OBR)",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "PE",
+"name": "Prince Edward Island",
+"source": "PEI Corporate Registry",
+"biz": true,
+"officers": true,
+"shareholders": true,
+"status": "active"
+},
+{
+"code": "QC",
+"name": "Quebec",
+"source": "Registraire des entreprises du Québec (REQ)",
+"biz": true,
+"officers": true,
+"shareholders": true,
+"status": "active"
+},
+{
+"code": "SK",
+"name": "Saskatchewan",
+"source": "ISC Corporate Registry (+ ISED federal)",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "YT",
+"name": "Yukon",
+"source": "Yukon Corporate Affairs (+ ISED federal)",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "NB",
+"name": "New Brunswick",
+"source": "Corporate Registry of New Brunswick",
+"biz": true,
+"officers": false,
+"shareholders": false,
+"status": "proposed"
+}
+]
+},
+"MX": {
+"name": "Mexico",
+"code": "MX",
+"national": {
+"source": "INEGI — DENUE / SIGER / State registries",
+"biz": true,
+"officers": true,
+"shareholders": true,
+"status": "active"
+},
+"national_status": "active",
+"regions": [
+{
+"code": "AGU",
+"name": "Aguascalientes",
+"source": "SIGER — Registro Público de Comercio (Aguascalientes)",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "BCN",
+"name": "Baja California",
+"source": "SIGER — Registro Público de Comercio (Baja California)",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "BCS",
+"name": "Baja California Sur",
+"source": "SIGER — Registro Público de Comercio (Baja California Sur)",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "CAM",
+"name": "Campeche",
+"source": "SIGER — Registro Público de Comercio (Campeche)",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "CHP",
+"name": "Chiapas",
+"source": "SIGER — Registro Público de Comercio (Chiapas)",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "CHH",
+"name": "Chihuahua",
+"source": "SIGER — Registro Público de Comercio (Chihuahua)",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "CMX",
+"name": "Ciudad de Mexico",
+"source": "SIGER — Registro Público de Comercio (Ciudad De Mexico)",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "COA",
+"name": "Coahuila",
+"source": "SIGER — Registro Público de Comercio (Coahuila)",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "COL",
+"name": "Colima",
+"source": "SIGER — Registro Público de Comercio (Colima)",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "DUR",
+"name": "Durango",
+"source": "SIGER — Registro Público de Comercio (Durango)",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "MEX",
+"name": "Estado de Mexico",
+"source": "SIGER — Registro Público de Comercio (Estado De Mexico)",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "GTO",
+"name": "Guanajuato",
+"source": "SIGER — Registro Público de Comercio (Guanajuato)",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "GRO",
+"name": "Guerrero",
+"source": "SIGER — Registro Público de Comercio (Guerrero)",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "HGO",
+"name": "Hidalgo",
+"source": "SIGER — Registro Público de Comercio (Hidalgo)",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "JAL",
+"name": "Jalisco",
+"source": "SIGER — Registro Público de Comercio (Jalisco)",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "MIC",
+"name": "Michoacan",
+"source": "SIGER — Registro Público de Comercio (Michoacan)",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "MOR",
+"name": "Morelos",
+"source": "SIGER — Registro Público de Comercio (Morelos)",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "NAY",
+"name": "Nayarit",
+"source": "SIGER — Registro Público de Comercio (Nayarit)",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "NLE",
+"name": "Nuevo Leon",
+"source": "SIGER — Registro Público de Comercio (Nuevo Leon)",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "OAX",
+"name": "Oaxaca",
+"source": "SIGER — Registro Público de Comercio (Oaxaca)",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "PUE",
+"name": "Puebla",
+"source": "SIGER — Registro Público de Comercio (Puebla)",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "QUE",
+"name": "Queretaro",
+"source": "SIGER — Registro Público de Comercio (Queretaro)",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "ROO",
+"name": "Quintana Roo",
+"source": "SIGER — Registro Público de Comercio (Quintana Roo)",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "REN",
+"name": "RENAPO",
+"source": "RENAPO — Registro Nacional de Población (CURP)",
+"biz": false,
+"officers": true,
+"shareholders": false,
+"status": "proposed"
+},
+{
+"code": "SLP",
+"name": "San Luis Potosi",
+"source": "SIGER — Registro Público de Comercio (San Luis Potosi)",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "SIN",
+"name": "Sinaloa",
+"source": "SIGER — Registro Público de Comercio (Sinaloa)",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "SON",
+"name": "Sonora",
+"source": "SIGER — Registro Público de Comercio (Sonora)",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "TAB",
+"name": "Tabasco",
+"source": "SIGER — Registro Público de Comercio (Tabasco)",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "TAM",
+"name": "Tamaulipas",
+"source": "SIGER — Registro Público de Comercio (Tamaulipas)",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "TLA",
+"name": "Tlaxcala",
+"source": "SIGER — Registro Público de Comercio (Tlaxcala)",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "VER",
+"name": "Veracruz",
+"source": "SIGER — Registro Público de Comercio (Veracruz)",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "YUC",
+"name": "Yucatan",
+"source": "SIGER — Registro Público de Comercio (Yucatan)",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+{
+"code": "ZAC",
+"name": "Zacatecas",
+"source": "SIGER — Registro Público de Comercio (Zacatecas)",
+"biz": true,
+"officers": false,
+"shareholders": false,
+"status": "proposed"
+}
+]
+},
+"HK": {
+"name": "Hong Kong",
+"code": "HK",
+"national": {
+"source": "Companies Registry (ICRIS)",
+"biz": true,
+"officers": true,
+"shareholders": true,
+"status": "active"
+},
+"national_status": "active",
+"regions": []
+},
+"IN": {
+"name": "India",
+"code": "IN",
+"national": {
+"source": "MCA — Ministry of Corporate Affairs",
+"biz": true,
+"officers": true,
+"shareholders": true,
+"status": "active"
+},
+"national_status": "active",
+"regions": []
+},
+"VN": {
+"name": "Vietnam",
+"code": "VN",
+"national": {
+"source": "NBRS — National Business Registration System",
+"biz": true,
+"officers": true,
+"shareholders": true,
+"status": "active"
+},
+"national_status": "active",
+"regions": []
+},
+"TH": {
+"name": "Thailand",
+"code": "TH",
+"national": {
+"source": "DBD — Department of Business Development (MoC)",
+"biz": true,
+"officers": true,
+"shareholders": true,
+"status": "active"
+},
+"national_status": "active",
+"regions": []
+},
+"KR": {
+"name": "Korea",
+"code": "KR",
+"national": {
+"source": "DART, IROS, KFTC",
+"biz": true,
+"officers": true,
+"shareholders": true,
+"status": "active"
+},
+"national_status": "active",
+"regions": []
+},
+"JP": {
+"name": "Japan",
+"code": "JP",
+"national": {
+"source": "gBizINFO (METI), official Houjin Touki records",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+"national_status": "in_progress",
+"regions": []
+},
+"TW": {
+"name": "Taiwan",
+"code": "TW",
+"national": {
+"source": "GCIS/MOEA — Dept. of Commerce",
+"biz": true,
+"officers": true,
+"shareholders": true,
+"status": "active"
+},
+"national_status": "active",
+"regions": []
+},
+"TR": {
+"name": "Turkey",
+"code": "TR",
+"national": {
+"source": "ITO / TTSG — Istanbul Chamber of Commerce / Trade Registry Gazette",
+"biz": true,
+"officers": true,
+"shareholders": true,
+"status": "active"
+},
+"national_status": "active",
+"regions": []
+},
+"EG": {
+"name": "Egypt",
+"code": "EG",
+"national": {
+"source": "Egypt Commercial Registry",
+"biz": true,
+"officers": false,
+"shareholders": false,
+"status": "proposed"
+},
+"national_status": "proposed",
+"regions": []
+},
+"GB": {
+"name": "United Kingdom",
+"code": "GB",
+"national": {
+"source": "Companies House",
+"biz": true,
+"officers": true,
+"shareholders": true,
+"status": "active"
+},
+"national_status": "active",
+"regions": []
+},
+"DE": {
+"name": "Germany",
+"code": "DE",
+"national": {
+"source": "Handelsregister registry",
+"biz": true,
+"officers": true,
+"shareholders": true,
+"status": "active"
+},
+"national_status": "active",
+"regions": []
+},
+"CL": {
+"name": "Chile",
+"code": "CL",
+"national": {
+"source": "SII — Servicio de Impuestos Internos",
+"biz": true,
+"officers": true,
+"shareholders": true,
+"status": "active"
+},
+"national_status": "active",
+"regions": []
+},
+"AL": {
+"name": "Albania",
+"code": "AL",
+"national": {
+"source": "QKB — National Business Center",
+"biz": true,
+"officers": true,
+"shareholders": true,
+"status": "active"
+},
+"national_status": "active",
+"regions": []
+},
+"DZ": {
+"name": "Algeria",
+"code": "DZ",
+"national": {
+"source": "CNRC — Centre National du Registre du Commerce",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+"national_status": "in_progress",
+"regions": []
+},
+"AR": {
+"name": "Argentina",
+"code": "AR",
+"national": {
+"source": "AFIP/ARCA",
+"biz": true,
+"officers": true,
+"shareholders": true,
+"status": "active"
+},
+"national_status": "active",
+"regions": []
+},
+"AM": {
+"name": "Armenia",
+"code": "AM",
+"national": {
+"source": "e-Register — Ministry of Justice (State Register of Legal Entities)",
+"biz": true,
+"officers": false,
+"shareholders": false,
+"status": "proposed"
+},
+"national_status": "proposed",
+"regions": []
+},
+"AU": {
+"name": "Australia",
+"code": "AU",
+"national": {
+"source": "ABR — Australian Business Register",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+"national_status": "in_progress",
+"regions": []
+},
+"AT": {
+"name": "Austria",
+"code": "AT",
+"national": {
+"source": "Firmenbuch",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+"national_status": "in_progress",
+"regions": []
+},
+"AZ": {
+"name": "Azerbaijan",
+"code": "AZ",
+"national": {
+"source": "State Tax Service — commercial register (e-taxes.gov.az)",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+"national_status": "in_progress",
+"regions": []
+},
+"BH": {
+"name": "Bahrain",
+"code": "BH",
+"national": {
+"source": "Sijilat — Ministry of Industry & Commerce",
+"biz": true,
+"officers": true,
+"shareholders": true,
+"status": "active"
+},
+"national_status": "active",
+"regions": []
+},
+"BE": {
+"name": "Belgium",
+"code": "BE",
+"national": {
+"source": "KBO/BCE — Crossroads Bank for Enterprises",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+"national_status": "in_progress",
+"regions": []
+},
+"BO": {
+"name": "Bolivia",
+"code": "BO",
+"national": {
+"source": "SEPREC — Servicio Plurinacional de Registro de Comercio",
+"biz": true,
+"officers": true,
+"shareholders": true,
+"status": "active"
+},
+"national_status": "active",
+"regions": []
+},
+"BA": {
+"name": "Bosnia and Herzegovina",
+"code": "BA",
+"national": {
+"source": "Business Registers (bizreg.pravosudje.ba)",
+"biz": true,
+"officers": true,
+"shareholders": true,
+"status": "active"
+},
+"national_status": "active",
+"regions": []
+},
+"BR": {
+"name": "Brazil",
+"code": "BR",
+"national": {
+"source": "Receita Federal — CNPJ",
+"biz": true,
+"officers": true,
+"shareholders": true,
+"status": "active"
+},
+"national_status": "active",
+"regions": []
+},
+"BG": {
+"name": "Bulgaria",
+"code": "BG",
+"national": {
+"source": "Registry Agency — Commercial Register",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+"national_status": "in_progress",
+"regions": []
+},
+"KH": {
+"name": "Cambodia",
+"code": "KH",
+"national": {
+"source": "MoC — Ministry of Commerce Business Registration",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+"national_status": "in_progress",
+"regions": []
+},
+"CN": {
+"name": "China",
+"code": "CN",
+"national": {
+"source": "GSXT — National Enterprise Credit Info Publicity System, QCC",
+"biz": true,
+"officers": true,
+"shareholders": true,
+"status": "active"
+},
+"national_status": "active",
+"regions": []
+},
+"CO": {
+"name": "Colombia",
+"code": "CO",
+"national": {
+"source": "RUES — Confecámaras",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+"national_status": "in_progress",
+"regions": []
+},
+"CR": {
+"name": "Costa Rica",
+"code": "CR",
+"national": {
+"source": "Ministerio de Hacienda / Registro Nacional",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+"national_status": "in_progress",
+"regions": []
+},
+"HR": {
+"name": "Croatia",
+"code": "HR",
+"national": {
+"source": "Sudski registar — Court/Commercial Register",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+"national_status": "in_progress",
+"regions": []
+},
+"CY": {
+"name": "Cyprus",
+"code": "CY",
+"national": {
+"source": "DRCOR — Registrar of Companies",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+"national_status": "in_progress",
+"regions": []
+},
+"CZ": {
+"name": "Czech Republic",
+"code": "CZ",
+"national": {
+"source": "ARES — Administrativní registr ekonomických subjektů",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+"national_status": "in_progress",
+"regions": []
+},
+"DK": {
+"name": "Denmark",
+"code": "DK",
+"national": {
+"source": "CVR — Central Business Register (Erhvervsstyrelsen)",
+"biz": true,
+"officers": true,
+"shareholders": true,
+"status": "active"
+},
+"national_status": "active",
+"regions": []
+},
+"DO": {
+"name": "Dominican Republic",
+"code": "DO",
+"national": {
+"source": "DGII — RNC",
+"biz": true,
+"officers": false,
+"shareholders": false,
+"status": "proposed"
+},
+"national_status": "proposed",
+"regions": []
+},
+"EC": {
+"name": "Ecuador",
+"code": "EC",
+"national": {
+"source": "SRI / Superintendencia de Compañías",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+"national_status": "in_progress",
+"regions": []
+},
+"EE": {
+"name": "Estonia",
+"code": "EE",
+"national": {
+"source": "Äriregister — e-Business Register (RIK)",
+"biz": true,
+"officers": true,
+"shareholders": true,
+"status": "active"
+},
+"national_status": "active",
+"regions": []
+},
+"FI": {
+"name": "Finland",
+"code": "FI",
+"national": {
+"source": "PRH — Finnish Patent and Registration Office",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+"national_status": "in_progress",
+"regions": []
+},
+"FR": {
+"name": "France",
+"code": "FR",
+"national": {
+"source": "INSEE/INPI — Annuaire des Entreprises (RNE/Sirene)",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+"national_status": "in_progress",
+"regions": []
+},
+"GE": {
+"name": "Georgia",
+"code": "GE",
+"national": {
+"source": "NAPR — National Agency of Public Registry",
+"biz": true,
+"officers": true,
+"shareholders": true,
+"status": "active"
+},
+"national_status": "active",
+"regions": []
+},
+"GR": {
+"name": "Greece",
+"code": "GR",
+"national": {
+"source": "GEMI — General Commercial Registry",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+"national_status": "in_progress",
+"regions": []
+},
+"GG": {
+"name": "Guernsey",
+"code": "GG",
+"national": {
+"source": "Guernsey Registry",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+"national_status": "in_progress",
+"regions": []
+},
+"HU": {
+"name": "Hungary",
+"code": "HU",
+"national": {
+"source": "Céginformáció — Company Information Service",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+"national_status": "in_progress",
+"regions": []
+},
+"IS": {
+"name": "Iceland",
+"code": "IS",
+"national": {
+"source": "RSK/Skatturinn — company & tax register",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+"national_status": "in_progress",
+"regions": []
+},
+"ID": {
+"name": "Indonesia",
+"code": "ID",
+"national": {
+"source": "IDX — Indonesia Stock Exchange (listed cos.)",
+"biz": true,
+"officers": true,
+"shareholders": true,
+"status": "active"
+},
+"national_status": "active",
+"regions": []
+},
+"IE": {
+"name": "Ireland",
+"code": "IE",
+"national": {
+"source": "CRO — Companies Registration Office",
+"biz": true,
+"officers": true,
+"shareholders": true,
+"status": "active"
+},
+"national_status": "active",
+"regions": []
+},
+"IM": {
+"name": "Isle of Man",
+"code": "IM",
+"national": {
+"source": "Isle of Man Companies Registry",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+"national_status": "in_progress",
+"regions": []
+},
+"IL": {
+"name": "Israel",
+"code": "IL",
+"national": {
+"source": "Registrar of Companies (data.gov.il)",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+"national_status": "in_progress",
+"regions": []
+},
+"IT": {
+"name": "Italy",
+"code": "IT",
+"national": {
+"source": "Registro Imprese",
+"biz": true,
+"officers": false,
+"shareholders": true,
+"status": "in_progress"
+},
+"national_status": "in_progress",
+"regions": []
+},
+"JM": {
+"name": "Jamaica",
+"code": "JM",
+"national": {
+"source": "Companies Office of Jamaica (ORC)",
+"biz": true,
+"officers": true,
+"shareholders": true,
+"status": "active"
+},
+"national_status": "active",
+"regions": []
+},
+"JE": {
+"name": "Jersey",
+"code": "JE",
+"national": {
+"source": "JFSC — Jersey Financial Services Commission Registry",
+"biz": true,
+"officers": false,
+"shareholders": false,
+"status": "proposed"
+},
+"national_status": "proposed",
+"regions": []
+},
+"JO": {
+"name": "Jordan",
+"code": "JO",
+"national": {
+"source": "Companies Control Dept — Ministry of Industry & Trade",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+"national_status": "in_progress",
+"regions": []
+},
+"KZ": {
+"name": "Kazakhstan",
+"code": "KZ",
+"national": {
+"source": "egov.kz / Bureau of National Statistics",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+"national_status": "in_progress",
+"regions": []
+},
+"KE": {
+"name": "Kenya",
+"code": "KE",
+"national": {
+"source": "BRS — Business Registration Service",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+"national_status": "in_progress",
+"regions": []
+},
+"XK": {
+"name": "Kosovo",
+"code": "XK",
+"national": {
+"source": "ARBK — Kosovo Business Registration Agency",
+"biz": true,
+"officers": true,
+"shareholders": true,
+"status": "active"
+},
+"national_status": "active",
+"regions": []
+},
+"KG": {
+"name": "Kyrgyzstan",
+"code": "KG",
+"national": {
+"source": "Ministry of Justice — legal entity register",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+"national_status": "in_progress",
+"regions": []
+},
+"LV": {
+"name": "Latvia",
+"code": "LV",
+"national": {
+"source": "Uzņēmumu reģistrs — Register of Enterprises",
+"biz": true,
+"officers": true,
+"shareholders": true,
+"status": "active"
+},
+"national_status": "active",
+"regions": []
+},
+"LI": {
+"name": "Liechtenstein",
+"code": "LI",
+"national": {
+"source": "Handelsregister — Amt für Justiz",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+"national_status": "in_progress",
+"regions": []
+},
+"LT": {
+"name": "Lithuania",
+"code": "LT",
+"national": {
+"source": "Registrų centras — Centre of Registers",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+"national_status": "in_progress",
+"regions": []
+},
+"LU": {
+"name": "Luxembourg",
+"code": "LU",
+"national": {
+"source": "RCS/LBR — Registre de Commerce et des Sociétés",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+"national_status": "in_progress",
+"regions": []
+},
+"MY": {
+"name": "Malaysia",
+"code": "MY",
+"national": {
+"source": "SSM — Companies Commission of Malaysia",
+"biz": true,
+"officers": true,
+"shareholders": true,
+"status": "active"
+},
+"national_status": "active",
+"regions": []
+},
+"MT": {
+"name": "Malta",
+"code": "MT",
+"national": {
+"source": "MBR — Malta Business Registry",
+"biz": true,
+"officers": false,
+"shareholders": false,
+"status": "proposed"
+},
+"national_status": "proposed",
+"regions": []
+},
+"MU": {
+"name": "Mauritius",
+"code": "MU",
+"national": {
+"source": "CBRD — Corporate & Business Registration Dept (MNS)",
+"biz": true,
+"officers": false,
+"shareholders": true,
+"status": "in_progress"
+},
+"national_status": "in_progress",
+"regions": []
+},
+"MD": {
+"name": "Moldova",
+"code": "MD",
+"national": {
+"source": "ASP/ANI public registers",
+"biz": true,
+"officers": true,
+"shareholders": true,
+"status": "active"
+},
+"national_status": "active",
+"regions": []
+},
+"ME": {
+"name": "Montenegro",
+"code": "ME",
+"national": {
+"source": "CRPS — Central Registry (Tax Administration)",
+"biz": true,
+"officers": true,
+"shareholders": true,
+"status": "active"
+},
+"national_status": "active",
+"regions": []
+},
+"MA": {
+"name": "Morocco",
+"code": "MA",
+"national": {
+"source": "OMPIC — Registre de Commerce",
+"biz": true,
+"officers": false,
+"shareholders": false,
+"status": "proposed"
+},
+"national_status": "proposed",
+"regions": []
+},
+"NL": {
+"name": "Netherlands",
+"code": "NL",
+"national": {
+"source": "KVK — Kamer van Koophandel",
+"biz": true,
+"officers": false,
+"shareholders": false,
+"status": "proposed"
+},
+"national_status": "proposed",
+"regions": []
+},
+"NZ": {
+"name": "New Zealand",
+"code": "NZ",
+"national": {
+"source": "NZ Companies Office — Companies Register",
+"biz": true,
+"officers": true,
+"shareholders": true,
+"status": "active"
+},
+"national_status": "active",
+"regions": []
+},
+"NG": {
+"name": "Nigeria",
+"code": "NG",
+"national": {
+"source": "CAC — Corporate Affairs Commission",
+"biz": true,
+"officers": true,
+"shareholders": true,
+"status": "active"
+},
+"national_status": "active",
+"regions": []
+},
+"NO": {
+"name": "Norway",
+"code": "NO",
+"national": {
+"source": "Brønnøysundregistrene (Brønnøysund Register Centre)",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+"national_status": "in_progress",
+"regions": []
+},
+"PK": {
+"name": "Pakistan",
+"code": "PK",
+"national": {
+"source": "SECP — Securities & Exchange Commission of Pakistan",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+"national_status": "in_progress",
+"regions": []
+},
+"PY": {
+"name": "Paraguay",
+"code": "PY",
+"national": {
+"source": "SET — RUC (Ministerio de Hacienda)",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+"national_status": "in_progress",
+"regions": []
+},
+"PE": {
+"name": "Peru",
+"code": "PE",
+"national": {
+"source": "SUNAT — RUC",
+"biz": true,
+"officers": false,
+"shareholders": false,
+"status": "proposed"
+},
+"national_status": "proposed",
+"regions": []
+},
+"PH": {
+"name": "Philippines",
+"code": "PH",
+"national": {
+"source": "SEC — Securities and Exchange Commission",
+"biz": true,
+"officers": false,
+"shareholders": false,
+"status": "proposed"
+},
+"national_status": "proposed",
+"regions": []
+},
+"PL": {
+"name": "Poland",
+"code": "PL",
+"national": {
+"source": "KRS — National Court Register (Ministry of Justice)",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+"national_status": "in_progress",
+"regions": []
+},
+"PT": {
+"name": "Portugal",
+"code": "PT",
+"national": {
+"source": "IRN / Portal da Empresa",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+"national_status": "in_progress",
+"regions": []
+},
+"QA": {
+"name": "Qatar",
+"code": "QA",
+"national": {
+"source": "MOCI — Ministry of Commerce (qatarcid)",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+"national_status": "in_progress",
+"regions": []
+},
+"RO": {
+"name": "Romania",
+"code": "RO",
+"national": {
+"source": "ANAF / ONRC",
+"biz": true,
+"officers": false,
+"shareholders": false,
+"status": "proposed"
+},
+"national_status": "proposed",
+"regions": []
+},
+"RU": {
+"name": "Russia",
+"code": "RU",
+"national": {
+"source": "FNS — EGRUL (nalog.ru)",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+"national_status": "in_progress",
+"regions": []
+},
+"SA": {
+"name": "Saudi Arabia",
+"code": "SA",
+"national": {
+"source": "MCI — Ministry of Commerce",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+"national_status": "in_progress",
+"regions": []
+},
+"RS": {
+"name": "Serbia",
+"code": "RS",
+"national": {
+"source": "APR — Business Registers Agency",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+"national_status": "in_progress",
+"regions": []
+},
+"SG": {
+"name": "Singapore",
+"code": "SG",
+"national": {
+"source": "ACRA — Accounting and Corporate Regulatory Authority, MAS — Financial Institutions Directory, register of members, secretaries and officers",
+"biz": true,
+"officers": true,
+"shareholders": true,
+"status": "active"
+},
+"national_status": "active",
+"regions": []
+},
+"SK": {
+"name": "Slovakia",
+"code": "SK",
+"national": {
+"source": "ORSR — Business Register, AJPES — Agency for Public Legal Records",
+"biz": true,
+"officers": true,
+"shareholders": true,
+"status": "active"
+},
+"national_status": "active",
+"regions": []
+},
+"ZA": {
+"name": "South Africa",
+"code": "ZA",
+"national": {
+"source": "CIPC — Companies and Intellectual Property Commission",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+"national_status": "in_progress",
+"regions": []
+},
+"SE": {
+"name": "Sweden",
+"code": "SE",
+"national": {
+"source": "Bolagsverket",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+"national_status": "in_progress",
+"regions": []
+},
+"CH": {
+"name": "Switzerland",
+"code": "CH",
+"national": {
+"source": "Zefix — Central Business Name Index",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+"national_status": "in_progress",
+"regions": []
+},
+"TN": {
+"name": "Tunisia",
+"code": "TN",
+"national": {
+"source": "RNE — Registre National des Entreprises",
+"biz": true,
+"officers": true,
+"shareholders": true,
+"status": "active"
+},
+"national_status": "active",
+"regions": []
+},
+"UA": {
+"name": "Ukraine",
+"code": "UA",
+"national": {
+"source": "EDR — Unified State Register",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+"national_status": "in_progress",
+"regions": []
+},
+"AE": {
+"name": "United Arab Emirates",
+"code": "AE",
+"national": {
+"source": "ADGM — Abu Dhabi Global Market registry, DIFC — Dubai International Financial Centre registry",
+"biz": true,
+"officers": true,
+"shareholders": true,
+"status": "active"
+},
+"national_status": "active",
+"regions": []
+},
+"UZ": {
+"name": "Uzbekistan",
+"code": "UZ",
+"national": {
+"source": "State register (orginfo.uz)",
+"biz": true,
+"officers": true,
+"shareholders": false,
+"status": "in_progress"
+},
+"national_status": "in_progress",
+"regions": []
+},
+"ES": {
+"name": "Spain",
+"code": "ES",
+"national": {
+"source": "Boletin Oficial del Registro Mercantil",
+"biz": true,
+"officers": false,
+"shareholders": false,
+"status": "proposed"
+},
+"national_status": "proposed",
+"regions": []
+},
+"PA": {
+"name": "Panama",
+"code": "PA",
+"national": {
+"source": "Registro Público de Panamá — Mercantil y Personas",
+"biz": true,
+"officers": false,
+"shareholders": false,
+"status": "proposed"
+},
+"national_status": "proposed",
+"regions": []
+},
+"GD": {
+"name": "Grenada",
+"code": "GD",
+"national": {
+"source": "Corporate Affairs and Intellectual Property Office — CAIPO",
+"biz": true,
+"officers": false,
+"shareholders": false,
+"status": "proposed"
+},
+"national_status": "proposed",
+"regions": []
+},
+"HN": {
+"name": "Honduras",
+"code": "HN",
+"national": {
+"source": "Registro Mercantil, administered regionally by chambers of commerce",
+"biz": true,
+"officers": false,
+"shareholders": false,
+"status": "proposed"
+},
+"national_status": "proposed",
+"regions": []
+},
+"TT": {
+"name": "Trinidad and Tobago",
+"code": "TT",
+"national": {
+"source": "Companies Registry, Registrar General's Department",
+"biz": true,
+"officers": false,
+"shareholders": false,
+"status": "proposed"
+},
+"national_status": "proposed",
+"regions": []
+},
+"FJ": {
+"name": "Fiji",
+"code": "FJ",
+"national": {
+"source": "Registrar of Companies, Ministry of Justice — ROC Digital Registry",
+"biz": true,
+"officers": false,
+"shareholders": false,
+"status": "proposed"
+},
+"national_status": "proposed",
+"regions": []
+},
+"MH": {
+"name": "Marshall Islands",
+"code": "MH",
+"national": {
+"source": "RMI Corporate Registry",
+"biz": true,
+"officers": false,
+"shareholders": false,
+"status": "proposed"
+},
+"national_status": "proposed",
+"regions": []
+},
+"VA": {
+"name": "Vatican City",
+"code": "VA",
+"national": {
+"source": "Vatican Register of Civil Legal Persons, Legal Office of the Governorate",
+"biz": true,
+"officers": false,
+"shareholders": false,
+"status": "proposed"
+},
+"national_status": "proposed",
+"regions": []
+},
+"SI": {
+"name": "Slovenia",
+"code": "SI",
+"national": {
+"source": "Slovenian Business Register (PRS)",
+"biz": true,
+"officers": false,
+"shareholders": false,
+"status": "proposed"
+},
+"national_status": "proposed",
+"regions": []
+},
+"SV": {
+"name": "El Salvador",
+"code": "SV",
+"national": {
+"source": "Registro de Comercio",
+"biz": true,
+"officers": false,
+"shareholders": false,
+"status": "proposed"
+},
+"national_status": "proposed",
+"regions": []
+},
+"BD": {
+"name": "Bangladesh",
+"code": "BD",
+"national": {
+"source": "Registrar of Joint Stock Companies and Firms, RJSC",
+"biz": true,
+"officers": false,
+"shareholders": false,
+"status": "proposed"
+},
+"national_status": "proposed",
+"regions": []
+},
+"GT": {
+"name": "Guatemala",
+"code": "GT",
+"national": {
+"source": "Registro Mercantil General",
+"biz": true,
+"officers": false,
+"shareholders": false,
+"status": "proposed"
+},
+"national_status": "proposed",
+"regions": []
+},
+"UY": {
+"name": "Uruguay",
+"code": "UY",
+"national": {
+"source": "Dirección General de Registros — Registro Nacional de Comercio",
+"biz": true,
+"officers": false,
+"shareholders": false,
+"status": "proposed"
+},
+"national_status": "proposed",
+"regions": []
+},
+"KW": {
+"name": "Kuwait",
+"code": "KW",
+"national": {
+"source": "Ministry of Commerce and Industry — Commercial Registry",
+"biz": true,
+"officers": false,
+"shareholders": false,
+"status": "proposed"
+},
+"national_status": "proposed",
+"regions": []
+},
+"UG": {
+"name": "Uganda",
+"code": "UG",
+"national": {
+"source": "Uganda Registration Services Bureau, URSB / OBRS",
+"biz": true,
+"officers": false,
+"shareholders": false,
+"status": "proposed"
+},
+"national_status": "proposed",
+"regions": []
+},
+"GH": {
+"name": "Ghana",
+"code": "GH",
+"national": {
+"source": "Office of the Registrar of Companies, ORC",
+"biz": true,
+"officers": false,
+"shareholders": false,
+"status": "proposed"
+},
+"national_status": "proposed",
+"regions": []
+},
+"OM": {
+"name": "Oman",
+"code": "OM",
+"national": {
+"source": "Invest Easy / Oman Business Platform",
+"biz": true,
+"officers": false,
+"shareholders": false,
+"status": "proposed"
+},
+"national_status": "proposed",
+"regions": []
+},
+"LK": {
+"name": "Sri Lanka",
+"code": "LK",
+"national": {
+"source": "Department of Registrar of Companies, eROC",
+"biz": true,
+"officers": false,
+"shareholders": false,
+"status": "proposed"
+},
+"national_status": "proposed",
+"regions": []
+}
+}
+}
